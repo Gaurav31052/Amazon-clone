@@ -154,7 +154,7 @@ a {
 
 /* hero section */
 .hero-section {
-  background: url(hero_image.jpg);
+  background: url("hero_image.jpg");
   background-size: cover;
   height: 400px;
   display: flex;
